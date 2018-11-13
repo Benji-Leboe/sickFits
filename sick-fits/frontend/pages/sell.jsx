@@ -4,9 +4,7 @@ import Link from "next/link";
 const Sell = () => (
   <div>
     <p>Sell a ting</p>
-    <Link href="/">
-      <a>Home</a>
-    </Link>
+    
   </div>
 )
 
